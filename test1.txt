@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0E4B-5712
+
+ Directory of C:\Users\DELL\Desktop\MyProject
+
+10-11-2021  21:46    <DIR>          .
+10-11-2021  21:46    <DIR>          ..
+10-11-2021  21:46                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,395,800,576 bytes free
